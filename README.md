@@ -1,6 +1,7 @@
 # ImdbTitleCrawler
 Simple crawler written in Python that takes the title from profile of a movie or series on IMDB.
 
+<img src="http://i.giphy.com/12oSdhWhc6oLEQ.gif" alt="video screen showing ImdbTitleCrawler in action"/>
 <img src="https://github.com/daltonmenezes/ImdbTitleCrawler/blob/master/sample.png" alt="sample image" />
 
 ### Requirements
